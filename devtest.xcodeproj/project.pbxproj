@@ -34,7 +34,6 @@
 		F25BB93D2A14F36500826D91 /* EmployeeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB93C2A14F36400826D91 /* EmployeeCell.swift */; };
 		F25BB9412A15E7C100826D91 /* UIApplication+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB9402A15E7C100826D91 /* UIApplication+Extension.swift */; };
 		F25BB9432A15E7DC00826D91 /* UINavigation+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB9422A15E7DC00826D91 /* UINavigation+Extension.swift */; };
-		F25BB9452A15EA5100826D91 /* ToasterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB9442A15EA5100826D91 /* ToasterView.swift */; };
 		F25BB94A2A1683EA00826D91 /* AddEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB9492A1683EA00826D91 /* AddEditViewController.swift */; };
 		F25BB94C2A16840600826D91 /* AddEditViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB94B2A16840600826D91 /* AddEditViewModel.swift */; };
 		F25BB94F2A17223400826D91 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25BB94E2A17223400826D91 /* Router.swift */; };
@@ -89,7 +88,6 @@
 		F25BB93C2A14F36400826D91 /* EmployeeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeCell.swift; sourceTree = "<group>"; };
 		F25BB9402A15E7C100826D91 /* UIApplication+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+Extension.swift"; sourceTree = "<group>"; };
 		F25BB9422A15E7DC00826D91 /* UINavigation+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UINavigation+Extension.swift"; sourceTree = "<group>"; };
-		F25BB9442A15EA5100826D91 /* ToasterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToasterView.swift; sourceTree = "<group>"; };
 		F25BB9492A1683EA00826D91 /* AddEditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditViewController.swift; sourceTree = "<group>"; };
 		F25BB94B2A16840600826D91 /* AddEditViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditViewModel.swift; sourceTree = "<group>"; };
 		F25BB94E2A17223400826D91 /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
@@ -236,7 +234,6 @@
 			children = (
 				F25BB9462A16838800826D91 /* AddEditEmployee */,
 				F25BB9342A14EF2700826D91 /* EmployeeList */,
-				F25BB9442A15EA5100826D91 /* ToasterView.swift */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -441,7 +438,6 @@
 				F25BB8E12A13F77800826D91 /* EmployeeListViewController.swift in Sources */,
 				F25BB8DD2A13F77800826D91 /* AppDelegate.swift in Sources */,
 				F25BB9182A14BF6E00826D91 /* Target.swift in Sources */,
-				F25BB9452A15EA5100826D91 /* ToasterView.swift in Sources */,
 				F25BB9362A14F10B00826D91 /* UseAutoLayout.swift in Sources */,
 				F25BB8DF2A13F77800826D91 /* SceneDelegate.swift in Sources */,
 				F25BB9222A14C9AF00826D91 /* Observable.swift in Sources */,
